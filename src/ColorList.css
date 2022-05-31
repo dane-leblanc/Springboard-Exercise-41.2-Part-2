@@ -1,0 +1,13 @@
+.ColorList ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.ColorList li {
+  margin-bottom: 0.3em;
+}
+
+.ColorList-header {
+  background-color: aquamarine;
+  padding: 0.2em;
+}
